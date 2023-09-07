@@ -2,3 +2,5 @@
 
 Challenge bangkit weekly consultation 3 (7 Sept 2023)
 Will be finish 21 Sept (Week 5)
+
+url: https://latifaharums.github.io/portofolio
